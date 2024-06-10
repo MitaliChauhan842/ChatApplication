@@ -1,0 +1,6 @@
+.conversationsContainer {
+  width: 20%;
+  height: 100%;
+  min-width: 20rem;
+  background-color: rgb(188, 188, 242);
+}
